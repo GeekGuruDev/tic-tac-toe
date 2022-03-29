@@ -1,6 +1,6 @@
 # Time Converter
 
-A Time Converter built using ReactJS and Tailwind CSS.
+A Tic-Tac-Toe game built using ReactJS and Tailwind CSS.
 
 <!-- ### [Live Demo](https://time-converter1.netlify.app/) -->
 
