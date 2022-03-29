@@ -2,7 +2,7 @@
 
 A Tic-Tac-Toe game built using ReactJS and Tailwind CSS.
 
-<!-- ### [Live Demo](https://time-converter1.netlify.app/) -->
+### [Live Demo](https://tic-tac-toe6.netlify.app/)
 
 # Installation and Run
 
