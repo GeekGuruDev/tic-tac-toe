@@ -1,4 +1,4 @@
-# Time Converter
+# Tic-Tac-Toe Game
 
 A Tic-Tac-Toe game built using ReactJS and Tailwind CSS.
 
