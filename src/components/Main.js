@@ -93,7 +93,7 @@ const Main = () => {
         <Score type="Tie">{tie}</Score>
         <Score type="X">{loss}</Score>
       </div>
-      <h1 className={`text-center text-4xl h-10`}>
+      <h1 className={`text-center text-4xl h-8`}>
         {winner} {(winner === "X" || winner === "O") && "Wins"}
       </h1>
       <Board values={values} setValues={markValue} />

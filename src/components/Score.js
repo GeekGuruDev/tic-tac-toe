@@ -1,6 +1,6 @@
 const Score = ({ type, children }) => {
   return (
-    <div className="bg-indigo-200 text-indigo-500 text-2xl text-center p-2 rounded w-20 h-20">
+    <div className="bg-indigo-200 text-indigo-500 text-xl text-center p-1 rounded w-16">
       <h1>{type}</h1>
       <p>{children}</p>
     </div>

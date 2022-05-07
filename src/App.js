@@ -4,7 +4,7 @@ import Main from "./components/Main";
 
 function App() {
   return (
-    <div className="h-screen bg-slate-200 text-slate-600 flex flex-col">
+    <div className="min-h-screen bg-slate-200 text-slate-600 flex flex-col">
       <Header />
       <Main />
       <Footer />
